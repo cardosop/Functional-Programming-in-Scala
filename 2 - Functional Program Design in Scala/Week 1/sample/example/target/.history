@@ -1,0 +1,8 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
+all {file:/home/paulo/Course2/sample/example/}root/products {file:/home/paulo/Course2/sample/example/}root/test:products
+console
+all {file:/home/paulo/Course2/sample/example/}root/products {file:/home/paulo/Course2/sample/example/}root/test:products
+max(List(1,3,2))
+import example.Lists._
+all {file:/home/paulo/Course2/sample/example/}root/products {file:/home/paulo/Course2/sample/example/}root/test:products
+submit ph_cardoso@hotmail.com tcBK3jQQSgHZHUiG 
